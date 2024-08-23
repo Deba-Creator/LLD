@@ -1,0 +1,101 @@
+# .NET Core
+*.dll
+*.exe
+*.pdb
+*.dbmdl
+*.bak
+*.log
+*.swp
+*.suo
+*.user
+*.userosscache
+*.suo
+*.suo
+*.tmp
+*.tlog
+*.log
+*.dmp
+*.cache
+*.ncb
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.vs/
+*.vscode/
+*.idea/
+.vscode/
+*.code-workspace
+# Visual Studio Code directories
+.vscode/
+.history/
+.idea/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages
+**/packages/*
+!**/packages/build/
+!**/packages/build/PackageDetection*
+!**/packages/build/PackageReferences*
+!**/packages/build/Packages*
+!**/packages/build/PackageTools*
+!**/packages/build/TargetFrameworks*
+
+# Rider IDE
+.idea/
+
+# JetBrains Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+
+# DotCover
+*.dotCover
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Npm
+node_modules/
+
+# npm package-lock
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Custom files
+*.sql
+*.sqlite
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.tmp
+*.bak
+
+# Microsoft Azure SDK
+*.azure/
+
+# Resharper
+_Resharper*/ 
+
+# Azure DevOps
+azure-devops/

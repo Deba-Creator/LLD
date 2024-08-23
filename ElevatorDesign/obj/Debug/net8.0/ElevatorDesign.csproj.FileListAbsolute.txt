@@ -1,0 +1,4 @@
+C:\Users\swain\source\repos\ElevatorSystemDesign\obj\Debug\net8.0\ElevatorDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\source\repos\ElevatorSystemDesign\obj\Debug\net8.0\ElevatorDesign.AssemblyInfoInputs.cache
+C:\Users\swain\source\repos\ElevatorSystemDesign\obj\Debug\net8.0\ElevatorDesign.AssemblyInfo.cs
+C:\Users\swain\source\repos\ElevatorSystemDesign\obj\Debug\net8.0\ElevatorDesign.csproj.CoreCompileInputs.cache

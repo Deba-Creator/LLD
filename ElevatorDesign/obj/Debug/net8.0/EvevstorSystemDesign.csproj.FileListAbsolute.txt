@@ -1,0 +1,14 @@
+C:\Users\swain\source\repos\EvevstorSystemDesign\bin\Debug\net8.0\EvevstorSystemDesign.exe
+C:\Users\swain\source\repos\EvevstorSystemDesign\bin\Debug\net8.0\EvevstorSystemDesign.deps.json
+C:\Users\swain\source\repos\EvevstorSystemDesign\bin\Debug\net8.0\EvevstorSystemDesign.runtimeconfig.json
+C:\Users\swain\source\repos\EvevstorSystemDesign\bin\Debug\net8.0\EvevstorSystemDesign.dll
+C:\Users\swain\source\repos\EvevstorSystemDesign\bin\Debug\net8.0\EvevstorSystemDesign.pdb
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.AssemblyInfoInputs.cache
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.AssemblyInfo.cs
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.csproj.CoreCompileInputs.cache
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.dll
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\refint\EvevstorSystemDesign.dll
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.pdb
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\EvevstorSystemDesign.genruntimeconfig.cache
+C:\Users\swain\source\repos\EvevstorSystemDesign\obj\Debug\net8.0\ref\EvevstorSystemDesign.dll
